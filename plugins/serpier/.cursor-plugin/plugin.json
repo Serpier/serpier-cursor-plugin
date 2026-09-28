@@ -10,7 +10,7 @@
   "homepage": "https://app.serpier.com/docs/mcp",
   "repository": "https://github.com/Serpier/serpier-cursor-plugin",
   "license": "MIT",
-  "logo": "assets/logo.png",
+  "logo": "assets/favicon.ico",
   "keywords": ["seo", "link-building", "marketplace", "ai-visibility", "mcp"],
   "mcpServers": "./mcp.json"
 }
