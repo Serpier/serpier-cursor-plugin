@@ -1,23 +1,18 @@
 {
-  "name": "cursor-plugin-starters",
+  "name": "serpier",
   "owner": {
-    "name": "Your Org",
-    "email": "plugins@example.com"
+    "name": "Serpier",
+    "email": "hello@serpier.com"
   },
   "metadata": {
-    "description": "Starter marketplace template for Cursor plugins",
+    "description": "Serpier plugins for Cursor",
     "version": "0.1.0"
   },
   "plugins": [
     {
-      "name": "starter-simple",
-      "source": "./plugins/starter-simple",
-      "description": "Minimal plugin with rules and skills only"
-    },
-    {
-      "name": "starter-advanced",
-      "source": "./plugins/starter-advanced",
-      "description": "Full-featured plugin with rules, skills, agents, commands, hooks, and MCP"
+      "name": "serpier",
+      "source": "./plugins/serpier",
+      "description": "The marketplace for links, with AI visibility and SEO performance tracking."
     }
   ]
 }

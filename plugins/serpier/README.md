@@ -1,6 +1,6 @@
-# Serpier for Cursor
+# Serpier
 
-Search the Serpier link marketplace, manage your cart and orders, and track AI visibility from Cursor.
+The marketplace for links, with AI visibility and SEO performance tracking.
 
 ## What you can do
 
@@ -13,7 +13,6 @@ Search the Serpier link marketplace, manage your cart and orders, and track AI v
 
 Install the plugin, then sign in with your Serpier account. Choose the organization and team to authorize and allow access. Calls stay on that organization and team until you connect again.
 
-The server is `https://app.serpier.com/api/mcp`.
+Setup details: [MCP docs](https://app.serpier.com/docs/mcp).
 
-- [MCP docs](https://app.serpier.com/docs/mcp)
-- [Privacy policy](https://serpier.com/privacy-policy)
+Privacy: [serpier.com/privacy-policy](https://serpier.com/privacy-policy).
