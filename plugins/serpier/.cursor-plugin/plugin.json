@@ -1,16 +1,24 @@
 {
   "name": "serpier",
   "displayName": "Serpier",
-  "version": "0.1.0",
-  "description": "Search the Serpier link marketplace, manage your cart and orders, and track AI visibility from Cursor.",
+  "version": "0.2.0",
+  "description": "Track AI visibility and SEO performance, monitor publications and manage link-building orders from Cursor.",
   "author": {
     "name": "Serpier",
     "email": "hello@serpier.com"
   },
-  "homepage": "https://app.serpier.com/docs/mcp",
+  "homepage": "https://docs.serpier.com/mcp",
   "repository": "https://github.com/Serpier/serpier-cursor-plugin",
   "license": "MIT",
   "logo": "assets/logo.png",
-  "keywords": ["seo", "link-building", "marketplace", "ai-visibility", "mcp"],
+  "keywords": [
+    "seo",
+    "ai-visibility",
+    "seo-performance",
+    "keyword-rankings",
+    "backlinks",
+    "link-building",
+    "mcp"
+  ],
   "mcpServers": "./mcp.json"
 }

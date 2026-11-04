@@ -1,13 +1,17 @@
 # Serpier for Cursor
 
-Search the Serpier link marketplace, manage your cart and orders, and track AI visibility from Cursor.
+Track AI visibility and SEO performance, monitor publications and manage link-building orders from Cursor.
 
 ## What you can do
 
-- Search the publisher marketplace.
-- Read and update the cart, and place an order. Placing an order spends that organization's Serpier budget.
-- Read projects, orders, and publication monitoring.
-- Read and update AI visibility monitoring.
+- **AI Visibility**: see how often your brand is mentioned and cited in AI answers for the prompts you track, add or remove prompts, and start new analysis runs.
+- **SEO Performance**: follow keyword rankings, search traffic and backlinks for your website projects.
+- **Publication tracking**: check whether published articles are live, indexed and still linking to you, and add new articles to monitor.
+- **Marketplace**: search Serpier's catalog of vetted publishers by country, topic, price and authority.
+- **Cart and orders**: add publishers to your cart, place orders, follow order status and fill in the brief for each publication.
+- **Projects**: list and create the website projects in your organization.
+
+Actions that change data are marked as such, so Cursor can ask you before running them. Placing an order is a real purchase, paid by card or invoice.
 
 ## Connect
 
@@ -15,5 +19,5 @@ Install the plugin, then sign in with your Serpier account. Choose the organizat
 
 The server is `https://app.serpier.com/api/mcp`.
 
-- [MCP docs](https://app.serpier.com/docs/mcp)
+- [MCP docs](https://docs.serpier.com/mcp)
 - [Privacy policy](https://serpier.com/privacy-policy)
